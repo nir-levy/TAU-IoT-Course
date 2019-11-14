@@ -1,4 +1,4 @@
-# IoT Course
+# Skeleton Project
 Exercises and example code for the IoT course
 
 ## [Mobile App](https://github.com/AlexPshul/iot-course/tree/master/01%20Mobile%20App)
